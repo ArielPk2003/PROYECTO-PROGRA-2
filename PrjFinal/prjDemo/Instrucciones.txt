@@ -1,0 +1,12 @@
+Primero instalar la extension de maven para Vscode
+Iniciar el proyecto con control + shift + p
+crear proyecto en java con maven 
+quickstart jdk8
+editar archivo pom.xml
+agregar las dependencias necesarias
+<dependency>
+      <groupId>com.twilio.sdk</groupId>
+      <artifactId>twilio</artifactId>
+      <version>7.55.0</version>
+</dependency>
+en caso de twilio
